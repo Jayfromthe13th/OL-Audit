@@ -12,13 +12,3 @@ This report outlines the findings from a comprehensive security audit conducted 
 
 The audit revealed findings categorized by severity levels. Recommendations for remediation are provided to address these vulnerabilities effectively.
 
-### Vulnerabilities Overview
-
-| ID       | Title                              | Impact                                                                                                       | Severity | Status    |
-|----------|------------------------------------|--------------------------------------------------------------------------------------------------------------|----------|-----------|
-| VUL-001  | Arbitrary Lock Duration Vulnerability in Lockbox Module    | **Critical Impact**: Potential for seed collision leading to pool address collision. | Critical | Resolved  |
-
-
-### Finding Count by Severity
-
-- **Critical Severity**: 1
